@@ -1,1 +1,4 @@
-Let's pretend there is a real financial report in here...
+Q1 $500
+Q2 $750
+Q3 $400
+Q4 $600
